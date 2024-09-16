@@ -15,7 +15,3 @@ app.get('/', (req, res) => {
 app.listen(process.env.PORT, () => { 
     console.log('Servidor Inicializado');
 });
-
-
-// TDD -> Test driven development -> Desenvolvimento Guiado por Testes
-// Modelo Link 
